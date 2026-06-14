@@ -12,25 +12,31 @@ Objective
 Build a modern SQL Server data warehouse that consolidates sales data from multiple source systems and provides a reliable foundation for analytics.
 
 **Requirements**
-Data Sources
+**Data Sources**
 ERP system (CSV files)
 CRM system (CSV files)
-Data Quality
+
+**Data Quality**
 Clean and standardize data
 Resolve missing values
 Remove duplicates
 Fix inconsistent formats
-Data Integration
+
+**Data Integration**
 Merge ERP and CRM data
 Create a single business-friendly analytical model
-Scope
+
+**Scope**
 Latest data only
 No historical tracking required
 No Slowly Changing Dimensions (SCD)
-Documentation
+
+**Documentation**
 Document architecture
 Document data model
 Document transformation rules
+
+
 Part 2 — Data Analytics & Reporting
 Objective
 
@@ -95,17 +101,20 @@ Analytics Layer
 
 SQL queries producing:
 
-Customer KPIs
+**Customer KPIs**
 Total customers
 Active customers
 Average order value
-Product KPIs
+
+**Product KPIs**
 Top 10 products
 Revenue by category
-Sales KPIs
+
+**Sales KPIs**
 Total revenue
 Monthly growth %
 Year-over-year growth
+
 Skills Demonstrated
 Data Engineering
 SQL Server
@@ -113,6 +122,7 @@ ETL/ELT
 Data Modeling
 Data Cleansing
 Data Warehousing
+
 Data Analytics
 SQL Analytics
 Business Intelligence
